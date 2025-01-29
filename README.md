@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samindu Mihiran</h1>
 <h3 align="center">A passionate IT student</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mihiran12&label=Profile%20views&color=0e75b6&style=flat" alt="mihiran12" /> </p>
-
 - 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Problem Solving**
