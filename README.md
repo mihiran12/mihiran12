@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samindu Mihiran</h1>
 <h3 align="center">A passionate IT student</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently working with **Java**
 
 - 💬 Ask me about **Problem Solving**
 
