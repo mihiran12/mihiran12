@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mihiransamindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mihiransamindu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samindu-mihiran-514901268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samindu-mihiran-514901268" height="30" width="40" /></a>
 <a href="https://fb.com/samindu.mihiran.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samindu.mihiran.9" height="30" width="40" /></a>
 <a href="https://instagram.com/mihiransamindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihiransamindu" height="30" width="40" /></a>
